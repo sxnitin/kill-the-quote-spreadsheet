@@ -1,0 +1,6 @@
+streamlit>=1.43,<2
+google-genai>=1.0,<2
+supabase>=2.15,<3
+pydantic>=2.10,<3
+pandas>=2.2,<3
+PyGithub>=2.6,<3
